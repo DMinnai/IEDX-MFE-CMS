@@ -1,0 +1,71 @@
+body {
+     color:#000;
+}
+ .iedx-body a {
+     color:#2D9CDB;
+}
+ .iedx-body {
+     background: #E5E5E5;
+}
+ .iedx-login-box {
+     width: 28vw;
+     height: 421px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+ .iedx-login-header {
+     background: #FFFFFF;
+     border-radius: 238px;
+     border:3px solid #4d5258;
+     padding:19.7px;
+     margin: 0px 0 40px;
+}
+ .iedx-input {
+     background: #FFFFFF;
+     border: 1px solid #CED4DA;
+     box-sizing: border-box;
+     border-radius: 4px;
+     width: 420px;
+     height: 38px;
+     text-indent: 10px;
+}
+ .iedx-submit-button {
+     color:#fff;
+     background: #2D9CDB;
+     border:none;
+     padding:10px 16px;
+     border-radius:6px;
+     margin: 10px 0;
+}
+ .form-group.iedx-groups {
+     margin-bottom: 20px;
+}
+ input::-webkit-input-placeholder {
+     color:#ABB5BE;
+}
+ input:-moz-placeholder {
+     color:#ABB5BE;
+}
+ input::-moz-placeholder {
+     color:#ABB5BE;
+}
+ input:-ms-input-placeholder {
+     color:#ABB5BE;
+}
+
+.iedx-logo {
+    height: 16px;
+   
+}
+.navbar-brand {
+ background: #FFFFFF;
+ border-radius: 238px;
+ border: 3px solid #4d5258;
+ padding: 9.7px; 
+}
